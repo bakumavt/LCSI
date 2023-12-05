@@ -43,3 +43,8 @@ All Events for the votes are selected randomly. You will have 1 positive and 1 n
 ## Not supported (yet)
 - Weather
 - Quota
+
+# Support
+
+- [Twitter](https://twitter.com/bakuma_vt)
+- [Twitch](https://www.twitch.tv/bakuma_vt)
