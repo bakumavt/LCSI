@@ -19,8 +19,27 @@ Merge existing files and you are good to go!
 # Configuration
 
 ## Twitch channel
+Once you have installed the mod and started the game, you will see a menu called `LCSI` on the right of the main screen.
 
+Once you click it you can enter your Twitch channel name. For example for the channel `https://www.twitch.tv/bakuma_vt` , put `bakuma_vt`
 
 # Ingame
 
 ## Voting
+At the start of each round, a vote will appear at the top of the screen.
+
+Your viewers can decide which one will be selected by typing `!vote1`, `!vote2` or `!vote3`
+
+If there is a tie, the selected event is randomly selected between the winners
+
+# Events
+## Votes
+All Events for the votes are selected randomly. You will have 1 positive and 1 negative outcome + 1 outcome that will be positive or negative
+## Supported
+- Items (positive)
+- Enemies (negative)
+- Credits (postive)
+
+## Not supported (yet)
+- Weather
+- Quota
