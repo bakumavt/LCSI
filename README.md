@@ -7,7 +7,9 @@ Lethal Company Stream Integration
 ### MelonLoader
 This mod needs Melon Loader to run <https://melonwiki.xyz/#/README?id=automated-installation>
 
-Install it first
+Please follow the instructions on the website to install it and chose the version 0.5.7!
+
+If you use ThunderStore and BepInEx mods you can also use this loader <https://thunderstore.io/c/lethal-company/p/BepInEx/BepInEx_MLLoader/>
 
 ## Install the mod
 Get the latest release here: <https://github.com/bakumavt/LCSI/releases>
