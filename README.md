@@ -4,14 +4,19 @@ Lethal Company Stream Integration
 # Install
 
 ## Dependencies
-### MelonLoader
-This mod needs Melon Loader to run <https://melonwiki.xyz/#/README?id=automated-installation>
+### BepInEx
+This mod needs BepInEx to run.
 
-Please follow the instructions on the website to install it and chose the version 0.5.7!
-
-If you use ThunderStore and BepInEx mods you can also use this loader <https://thunderstore.io/c/lethal-company/p/BepInEx/BepInEx_MLLoader/>
+If you install it manually please refer to this guide: <https://docs.bepinex.dev/master/articles/user_guide/installation/index.html>
 
 ## Install the mod
+
+### ThunderStore
+
+You can install the mod from here <https://thunderstore.io/c/lethal-company/p/Bakuma/Lethal_Company_Stream_Integration/>
+
+### Manual
+
 Get the latest release here: <https://github.com/bakumavt/LCSI/releases>
 
 Then extract the content on the zip in the root of the game folder for example `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`
